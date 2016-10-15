@@ -1,0 +1,29 @@
+{
+	"collectors": [
+		{
+			"name": "",
+			"plugin": "",
+			"params": {
+				"": ""
+			}
+		}
+	],
+	"credentials": [
+		{
+			"name": "",
+			"plugin": "",
+			"params": {
+				"": ""
+			}
+		}
+	],
+	"datasources": [
+		{
+			"name": "",
+			"plugin": "",
+			"params": {
+				"": ""
+			}
+		}
+	]
+}
